@@ -1,7 +1,7 @@
 # 알고리즘 및 자료구조 with Python
 
 ### [블로그](https://da-journal.com)
-### [포트폴리오](https://dawunhan.github.io/portfolio/)
+### [포트폴리오](https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8)
 
 ## Algorithms and Data Structure
 - [스택](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EC%8A%A4%ED%83%9D%20(Stack).ipynb)
