@@ -4,7 +4,7 @@
 ### [포트폴리오](https://dawunhan.github.io/portfolio/)
 
 ## Algorithms and Data Structure
-- [스택](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/Stack.ipynb)
+- [스택](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EC%8A%A4%ED%83%9D%20(Stack).ipynb)
 - [큐](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/Queue.ipynb)
 - [퀵 정렬](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/Quick%20Sort%20%ED%80%B5%20%EC%A0%95%EB%A0%AC.ipynb)
 - [이진 탐색](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20(Binary%20Search).ipynb)
