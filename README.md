@@ -14,7 +14,7 @@
 - [너비 우선 탐색 BFS](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(Breadth-First%20Search).ipynb)
 - [깊이 우선 탐색 DFS](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(Depth-First%20Search).ipynb)
 
-## 백준 문제 풀이
+<!-- ## 백준 문제 풀이
 - [문제 2798](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%202798.ipynb)
 - [문제 2920](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%202920.ipynb)
 - [문제 5397](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%205397%20%ED%82%A4%EB%A1%9C%EA%B1%B0.ipynb)
@@ -39,4 +39,4 @@
 - [문제 2750](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202750%20%EC%88%98%20%EC%A0%95%EB%A0%AC.ipynb)
 - [문제 2751](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.ipynb)
 - [문제 4195](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%204195.ipynb)
-- [문제 7490](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%207490%200%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+- [문제 7490](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%207490%200%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) -->
