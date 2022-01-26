@@ -1,11 +1,8 @@
 # 알고리즘 및 자료구조 with Python
 
-### [블로그](https://da-journal.com)
-### [포트폴리오](https://noiseless-sofa-93c.notion.site/05810965d1fb4e88837bc717d934e8b8)
-
 ## Algorithms and Data Structure
-- [스택](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EC%8A%A4%ED%83%9D%20(Stack).ipynb)
-- [큐](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%ED%81%90%20(Queue).ipynb)
+-
+-
 - [퀵 정렬](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%ED%80%B5%20%EC%A0%95%EB%A0%AC%20(Quick%20Sort).ipynb)
 - [이진 탐색](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20(Binary%20Search).ipynb)
 - [순차 탐색](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89%20(Sequential%20Search).ipynb)
@@ -14,29 +11,16 @@
 - [너비 우선 탐색 BFS](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(Breadth-First%20Search).ipynb)
 - [깊이 우선 탐색 DFS](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(Depth-First%20Search).ipynb)
 
-<!-- ## 백준 문제 풀이
-- [문제 2798](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%202798.ipynb)
-- [문제 2920](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%202920.ipynb)
-- [문제 5397](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%205397%20%ED%82%A4%EB%A1%9C%EA%B1%B0.ipynb)
-- [문제 1874](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%201874%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.ipynb)
-- [문제 1966](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%201966%20%ED%81%90.ipynb)
-- [문제 10930](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/백준%20문제풀이/%5B%EB%B0%B1%EC%A4%80%5D%2010930%20SHA-256.ipynb)
-- [문제 1074](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201074%20z%20(%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98).ipynb)
-- [문제 10814](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%2010814%20%EB%82%98%EC%9D%B4%20%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A0%AC.ipynb)
-- [문제 10989](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%2010989.ipynb)
-- [문제 11004](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%2011004%20k%EB%B2%88%EC%A7%B8%20%EC%88%98.ipynb)
-- [문제 11650](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%2011650%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.ipynb)
-- [문제 1236](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201236%20%EC%84%B1%20%EC%A7%80%ED%82%A4%EA%B8%B0.ipynb)
-- [문제 1302](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201302%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.ipynb)
-- [문제 1427](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201427.ipynb)
-- [문제 1543](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201543%20%EB%AC%B8%EC%84%9C%20%EA%B2%80%EC%83%89.ipynb)
-- [문제 1568](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201568%20%EC%83%88.ipynb)
-- [문제 1668](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201668%20%ED%8A%B8%EB%A1%9C%ED%94%BC%20%EC%A7%84%EC%97%B4.ipynb)
-- [문제 1920](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201920.ipynb)
-- [문제 1966](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%201966%20%ED%81%90.ipynb)
-- [문제 2110](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202110%20%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.ipynb)
-- [문제 2747](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202747%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%97%B4.ipynb)
-- [문제 2750](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202750%20%EC%88%98%20%EC%A0%95%EB%A0%AC.ipynb)
-- [문제 2751](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%202751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.ipynb)
-- [문제 4195](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%204195.ipynb)
-- [문제 7490](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EB%B0%B1%EC%A4%80%5D%207490%200%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) -->
+## 백준 문제 풀이
+
+|Category|설명|문제|
+|:---:|:---:|:---:|
+|스택|[스택](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EC%8A%A4%ED%83%9D%20(Stack).ipynb)|[1874](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EC%8A%A4%ED%83%9D_%EA%B7%B8%EB%A6%AC%EB%94%94%5D_%ED%95%98_1874.ipynb)|
+|큐|[큐](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%ED%81%90%20(Queue).ipynb)|[1966](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%ED%81%90%5D_%ED%95%98_1966.ipynb)|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
