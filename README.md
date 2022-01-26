@@ -14,5 +14,5 @@
 |선택 정렬||[2750](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EC%A0%95%EB%A0%AC%5D_%ED%95%98_2750_%EC%88%98_%EC%A0%95%EB%A0%AC.ipynb)||
 |해시||[1920](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%ED%95%B4%EC%8B%9C%2C%EB%B0%B0%EC%97%B4%5D_%ED%95%98_1920.ipynb)|[10930](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%ED%95%B4%EC%8B%9C%5D_%ED%95%98_10930_SHA_256.ipynb)|
 |동적 계획법과 분할 정복|[동적 계획법과 분할 정복](https://github.com/DAWUNHAN/Algorithms-and-DataStructure/blob/master/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming)%EA%B3%BC%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%20(Divide%20and%20Conquer).ipynb)|||
-|왼쪽정렬|오른쪽정렬|||
-|왼쪽정렬|오른쪽정렬|||
+|힙|[힙](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%ED%9E%99.ipynb)|||
+|탐욕 알고리즘|[탐욕](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%20%ED%83%90%EC%9A%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20(Greedy%20Algorithm).ipynb)|||
