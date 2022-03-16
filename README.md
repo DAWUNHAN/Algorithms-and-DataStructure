@@ -1,6 +1,6 @@
 # 알고리즘 및 자료구조 with Python
 
-|Category|설명|문제|
+|Category|설명|백준 문제|
 |:---:|:---:|:---:|
 |스택|[스택](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EC%8A%A4%ED%83%9D%20(Stack).ipynb)|[1874](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EC%8A%A4%ED%83%9D_%EA%B7%B8%EB%A6%AC%EB%94%94%5D_%ED%95%98_1874.ipynb), [10828](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%EC%8A%A4%ED%83%9D%5D_10828.ipynb)|
 |큐|[큐](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%ED%81%90%20(Queue).ipynb)|[1966](https://github.com/DAWUNHAN/algorithms-and-dataStructure/blob/master/%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%5B%ED%81%90%5D_%ED%95%98_1966.ipynb)|
